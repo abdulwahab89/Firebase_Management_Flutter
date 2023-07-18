@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083692725721",
+    "project_id": "dumy-291ad",
+    "storage_bucket": "dumy-291ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083692725721:android:265ddc805146b4c77d15c8",
+        "android_client_info": {
+          "package_name": "com.awahab.dumy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083692725721-m5f6613ielm7gaqel6u9hvoul2k7oskb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJm23EkyN-oEdkloAmyfvj-ZPBqyyIBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083692725721-m5f6613ielm7gaqel6u9hvoul2k7oskb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
